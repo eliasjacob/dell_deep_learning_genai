@@ -13,12 +13,8 @@ In the Deep Learning section, we will explore the following topics:
 - **Backpropagation, Stochastic Gradient Descent, and Optimizers**: Dive into the training process of neural networks, including the backpropagation algorithm, stochastic gradient descent, and various optimization techniques.
 - **Basics of Convolutional Neural Networks (CNNs) and Recurrent Neural Networks (RNNs)**: Get an introduction to two popular architectures used in deep learning: CNNs for image and video processing, and RNNs for sequential data analysis.
 - **Overview of Computer Vision**: Explore various tasks in computer vision, such as image segmentation, enhancement, and feature extraction.
-- **Tools: PyTorch and TensorFlow/Keras**: Gain hands-on experience with popular deep learning frameworks like PyTorch and TensorFlow/Keras.
+- **Tools: PyTorch and TensorFlow/Keras**: Gain hands-on experience with popular deep learning frameworks. We'll focus on PyTorch.
 - **Practical Exercises**: Apply your knowledge through practical exercises and projects.
-- **Overview of Reinforcement Learning**: Learn about agents, environments, and reward optimization in reinforcement learning.
-- **Time Series Analysis**: Study techniques for decomposition, stationarity analysis, and autoregressive models in time series data.
-- **Overview of Anomaly Detection**: Discover methods for identifying unusual patterns or outliers in data.
-- **Overview of Natural Language Processing**: Explore techniques like bag-of-words, TF-IDF, and word embeddings for processing and understanding text data.
 
 ## Generative AI
 
@@ -30,7 +26,7 @@ The Generative AI section will cover the following topics:
 - **Retrieval Augmented Generation (RAG)**: Understand how retrieval-based methods can enhance the performance and capabilities of generative models.
 - **Tools: Hugging Face, PyTorch/TensorFlow, Langchain, and LlamaIndex**: Get hands-on experience with popular libraries and frameworks for building and deploying generative AI models.
 
-Throughout the course, you will have the opportunity to work on practical exercises and projects to solidify your understanding of deep learning and generative AI concepts. We will provide code examples and resources to support your learning journey.
+Throughout the course, you will have the opportunity to work on practical exercises and projects to solidify your understanding of deep learning and generative AI concepts. I will provide code examples and resources to support your learning journey.
 
 ## Prerequisites
 
@@ -112,3 +108,13 @@ Contributions to the course repository are welcome! If you have any improvements
 ## Contact
 
 You can [contact me](elias.jacob@ufrn.br) for any questions or feedback regarding the course materials or repository.
+
+
+## Note
+
+I've prepared the material for some topics that were not supposed to be covered in this course. Since I've prepared that for you, I'll leave it here in a folder called `extra`. If you want to take a look at it, feel free to do so. Here are the topics:
+
+- **Overview of Reinforcement Learning**: Learn about agents, environments, and reward optimization in reinforcement learning.
+- **Time Series Analysis**: Study techniques for decomposition, stationarity analysis, and autoregressive models in time series data.
+- **Overview of Anomaly Detection**: Discover methods for identifying unusual patterns or outliers in data.
+- **Overview of Natural Language Processing**: Explore techniques like bag-of-words, TF-IDF, and word embeddings for processing and understanding text data.
