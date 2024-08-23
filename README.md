@@ -1,5 +1,5 @@
 # Dell AI Delivery Academy - Deep Learning and Generative AI
-### [Dr. Elias Jacob de Menezes Neto](https://docente.ufrn.br/elias.jacob)
+## [Dr. Elias Jacob de Menezes Neto](https://docente.ufrn.br/elias.jacob)
 Welcome to the Dell AI Delivery Academy course on Deep Learning and Generative AI. This repository contains the code and resources for the course. Our syllabus covers a wide range of topics in these fields. Yeah, it is a lot, I know. But we will have fun!
 
 > This course will be taught between 2024-08-14 and 2024-09-04 at [Instituto Metrópole Digital/UFRN](https://portal.imd.ufrn.br/portal/)
