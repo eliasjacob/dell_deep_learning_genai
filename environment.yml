@@ -12,10 +12,7 @@ dependencies:
   - brotli-python=1.1.0=py312h30efb56_1
   - bzip2=1.0.8=h4bc722e_7
   - ca-certificates=2024.7.4=hbcca054_0
-  - cairo=1.18.0=hebfffa5_3
   - certifi=2024.7.4=pyhd8ed1ab_0
-  - cffi=1.16.0=py312hf06ca03_0
-  - charset-normalizer=3.3.2=pyhd8ed1ab_0
   - cuda-cudart=12.4.127=0
   - cuda-cupti=12.4.127=0
   - cuda-libraries=12.4.0=0
@@ -25,7 +22,6 @@ dependencies:
   - cuda-runtime=12.4.0=0
   - cuda-version=12.6=3
   - dav1d=1.2.1=hd590300_0
-  - expat=2.6.2=h59595ed_0
   - ffmpeg=7.0.1=gpl_h0db5852_105
   - font-ttf-dejavu-sans-mono=2.37=hab24e00_0
   - font-ttf-inconsolata=3.000=h77eed37_0
@@ -66,7 +62,6 @@ dependencies:
   - libcusparse=12.3.0.142=0
   - libdeflate=1.20=hd590300_0
   - libdrm=2.4.122=h4ab18f5_0
-  - libexpat=2.6.2=h59595ed_0
   - libffi=3.4.2=h7f98852_5
   - libgcc-ng=14.1.0=h77fa898_0
   - libgettextpo=0.22.5=h59595ed_2
@@ -230,7 +225,6 @@ dependencies:
       - dash-table==5.0.0
       - dataclasses-json==0.6.7
       - datasets==2.20.0
-      - debugpy==1.8.3
       - decorator==5.1.1
       - deepdiff==7.0.1
       - deprecated==1.2.14
